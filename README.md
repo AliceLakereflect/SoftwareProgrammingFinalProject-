@@ -2,7 +2,7 @@
 
 This is a 2-pass assembler compose by C++ which reads source.txt and produce the object code.
 
-### 執行環境 (Environment)
+### Environment
 - IDE: VS code
 - Compiler version: gcc9
 - C language version: C++11
